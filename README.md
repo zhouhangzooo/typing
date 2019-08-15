@@ -2,7 +2,7 @@
 用JS写的打字练习项目
 
 ## 项目展示
-![](https://github.com/zhouhangzooo/typing/image/typing.jpg)
+![](https://github.com/zhouhangzooo/typing/blob/master/typing/image/typing.jpg)
 
 ##源码官方地址
 http://www.speedcoder.net/
